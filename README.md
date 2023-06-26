@@ -1,9 +1,13 @@
 # reading-notes
 Reading Notes repository
 
-## My List
+## My Anime List
 
-* Item 1
-* Item 2
+* Anime
+* Character
 
 Texts to go with my list.
+
+## Table of Contents
+
+*[Class 01 Notes](./class-01)
